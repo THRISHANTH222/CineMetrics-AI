@@ -1,0 +1,6 @@
+{
+  "name": "CineMetrics AI - Movie Rating Intelligence Research Deck",
+  "description": "An interactive, college-level research presentation analyzing IMDb's weighted rating mechanisms, 2-3 hour release dynamics, Top 250 Bayesian formulas, STARmeter popularity metrics, and proposed modern NLP sentiment & opinion mining pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
